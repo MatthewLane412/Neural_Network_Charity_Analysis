@@ -2,15 +2,10 @@
 
 
 
-![PyBer_Summary_df](/Images/Native_Random_Ovesampling_balanced_accuracy_score.PNG)
+![PyBer_Summary_df](/Images/Epoch.PNG)
+![PyBer_Summary_df](/Images/Epoch_Optimization.PNG)
+![PyBer_Summary_df](/Images/Epoch_Optimization_v1.PNG)
+![PyBer_Summary_df](/Images/Epoch_Optimization_v2.PNG)
 
-![PyBer_Summary_df](/Images/Native_Random_Ovesampling_balanced_accuracy_score.PNG)
 
-![PyBer_Summary_df](/Images/Native_Random_Ovesampling_balanced_accuracy_score.PNG)
-![PyBer_Summary_df](/Images/Native_Random_Ovesampling_balanced_accuracy_score.PNG)
-
-![PyBer_Summary_df](/Images/Native_Random_Ovesampling_balanced_accuracy_score.PNG)
-
-![PyBer_Summary_df](/Images/Native_Random_Ovesampling_balanced_accuracy_score.PNG)
-![PyBer_Summary_df](/Images/Native_Random_Ovesampling_balanced_accuracy_score.PNG)
 
